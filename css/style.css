@@ -1,0 +1,40 @@
+.contenue
+{
+    width:500px;
+    margin:0px auto;
+}
+.details{
+    background-color: rgb(211, 171, 145);
+}
+.details img {
+    float:left;
+    border: solid 1px;
+   
+    border-radius:50% /*1000px 1000px 1000px 1000px*/;
+    width: 120px;
+    height: 120px;
+}
+.liste_contenue{
+   /* background-color: blueviolet;*/
+   
+    font-size: 18px;
+    text-align:left;
+    margin-left: 100px;
+   
+     
+}
+.liste_contenue li{
+    list-style: none;
+ 
+}
+hr{
+ border-color: rgb(238, 158, 11);
+}
+.cv h1,h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.cv_section{
+   
+    padding-bottom:10px;
+}
